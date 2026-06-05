@@ -2,6 +2,6 @@
 
 ## Temario básico
 
-[Temario](../assets/pdf/recursos/Temario.pdf)
+[Temario](assets/pdf/recursos/Temario.pdf)
 
 [🏠 Menú Principal](index.md)
