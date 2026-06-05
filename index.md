@@ -1,15 +1,10 @@
-olimpiada-matematicas/
-│
-├── index.md
-│
-├── entrenamientos/
-│   ├── README.md
-│   └── 2026-06-06.md
-│
-├── problemas.md
-├── soluciones.md
-├── recursos.md
-│
-└── assets/
-    ├── pdf/
-    └── images/
+# Entrenamiento de Olimpiada Matemática
+
+Bienvenidos.
+
+## Secciones
+
+- [Entrenamientos](entrenamientos/)
+- [Problemas](problemas.md)
+- [Soluciones](soluciones.md)
+- [Recursos](recursos.md)
