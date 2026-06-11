@@ -1,4 +1,4 @@
-# Entrenamiento — 6 de junio de 2026
+# Entrenamiento — por confirmar
 
 ## Tema principal
 
