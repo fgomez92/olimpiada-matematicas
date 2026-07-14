@@ -16,6 +16,7 @@ Las siguientes recomendaciones están dirigidas a las bases necesarias para reso
 4. Desigualdades: capítulos 1 (omitir secciones 1.6 y 1.8) y 2 (omitir secciones 2.7 y 2.8).
 5. Geometría: omitir secciones 2.2, 3.3, 3.4 y 3.5.
 6. Principio de las casillas: capítulo 1.
+7. Teoría de números.
 
 ### Otros libros
 
