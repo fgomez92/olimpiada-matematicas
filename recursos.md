@@ -22,11 +22,11 @@ Las siguientes recomendaciones están dirigidas a las bases necesarias para reso
 
 #### En inglés
 
-1. **Mathematical olympiad treasures**.
+1. **Mathematical olympiad treasures**.<br>
     *T. Andreescu* y *B. Enescu*.
-2. **Number theory. Structures, examples and problems**: capítulos del 1 al 5 y secciones 9.2 y 9.3.
+2. **Number theory. Structures, examples and problems**: capítulos del 1 al 5 y secciones 9.2 y 9.3.<br>
     *T. Andreescu* y *D. Andrica*.
-3. **A path to combinatorics for undergraduates. Counting strategies**: capítulos del 1 al 7.
+3. **A path to combinatorics for undergraduates. Counting strategies**: capítulos del 1 al 7.<br>
     *T. Andreescu* y *Z. Feng*.
 4. 
 5. 
