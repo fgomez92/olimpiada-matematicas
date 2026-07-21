@@ -4,6 +4,11 @@
 
 [Temario](assets/pdf/recursos/Temario.pdf)
 
+## Lecturas adicionales
+
+1. [Inducción](../assets/pdf/recursos/Material3.pdf)
+2. 
+
 ## Material recomendado
 
 Las siguientes recomendaciones están dirigidas a las bases necesarias para resolver principalmente problemas 1, 2 y 4 del concurso nacional de la OMM. Por lo tanto, temas que no se consideren necesarios o recurrentes en este nivel serán ignorados.
