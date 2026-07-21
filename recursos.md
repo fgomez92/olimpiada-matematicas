@@ -6,7 +6,7 @@
 
 ## Lecturas adicionales
 
-1. [Inducción](../assets/pdf/recursos/Material3.pdf)
+1. [Inducción](/main/assets/pdf/recursos/Material3.pdf)
 2. 
 
 ## Material recomendado
