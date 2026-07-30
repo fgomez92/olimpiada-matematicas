@@ -1,6 +1,9 @@
 # Entrenamiento de Olimpiada Matemática
 
-Bienvenidos.
+Novedades:
+
+  Nuevo material sobre ecuaciones.
+  Notas de la sesión en línea.
 
 ## Secciones
 
