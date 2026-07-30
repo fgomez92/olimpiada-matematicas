@@ -2,8 +2,8 @@
 
 Novedades:
 
-  Nuevo material sobre ecuaciones.
-  Notas de la sesión en línea.
+  - Nuevo material sobre ecuaciones.
+  - Notas de la sesión en línea.
 
 ## Secciones
 
