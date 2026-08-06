@@ -8,5 +8,6 @@
 # Entrenamientos en línea.
 - [15 de julio de 2026](../assets/pdf/online/Sesion1.pdf)
 - [29 de julio de 2026](../assets/pdf/online/Sesion2.pdf)
+- [5 de agosto de 2026](../assets/pdf/online/Sesion3.pdf)
 
 [🏠 Menú Principal](../index.md)
