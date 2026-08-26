@@ -11,3 +11,5 @@ Lista 2
 Lista 3
 * [Problema 4](assets/pdf/problemas/P4-L3.pdf)
 * [Problema 5](assets/pdf/problemas/P5-L3.pdf)
+
+[🏠 Menú Principal](../index.md)
