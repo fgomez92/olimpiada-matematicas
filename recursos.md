@@ -6,8 +6,11 @@
 
 ## Lecturas adicionales
 
-1. [Inducción](assets/pdf/recursos/Material3.pdf)
-2. 
+1. [Configuraciones I](assets/pdf/recursos/Material1.pdf)
+2. [Configuraciones II](assets/pdf/recursos/Material2.pdf)
+3. [Inducción](assets/pdf/recursos/Material3.pdf)
+4. [Ecuaciones](assets/pdf/recursos/Material4.pdf)
+5. 
 
 ## Material recomendado
 
