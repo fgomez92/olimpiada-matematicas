@@ -2,3 +2,5 @@
 
 - [Primer selectivo](assets/pdf/soluciones/selectivo1.pdf)
 - [Segundo selectivo](assets/pdf/soluciones/selectivo2.pdf)
+
+[Regresar](soluciones.md)
