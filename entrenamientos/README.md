@@ -5,7 +5,7 @@
 - [11 de julio de 2026](2026-07-11.md)
 - [1 de agosto de 2026](2026-08-01.md)
 - [15 de agosto de 2026](2026-08-15.md)
-- [28 de agosto de 2026](2026-08-15.md)
+- [28 de agosto de 2026](2026-08-28.md)
 
 # Entrenamientos en línea.
 - [15 de julio de 2026](../assets/pdf/online/Sesion1.pdf)
