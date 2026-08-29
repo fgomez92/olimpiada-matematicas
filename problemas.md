@@ -1,6 +1,6 @@
 # Problemas
 
-- [Lista 1: Problemas de dígitos(/assets/pdf/problemas/Lista1.pdf)
+- [Lista 1: Problemas de dígitos](/assets/pdf/problemas/Lista1.pdf)
 - [Lista 2: Configuraciones I](/assets/pdf/problemas/Lista2.pdf)
 - [Lista 3: Configuraciones III](/assets/pdf/problemas/Lista3.pdf)
 - [Lista 4: Ecuaciones](/assets/pdf/problemas/Lista4.pdf)
